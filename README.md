@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @123chstar
+- 👋 Hi, I’m @123chstar but my name is Chris Anu Joseph
 - 👀 I’m interested in ... programming languages which are simple and easy to learn or maybe even complex ones
 - 🌱 I’m currently learning ... html, css and javascript
 - 💞️ I’m looking to collaborate on ...
